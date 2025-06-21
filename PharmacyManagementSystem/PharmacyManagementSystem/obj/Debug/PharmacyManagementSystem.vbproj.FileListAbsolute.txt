@@ -1,0 +1,13 @@
+C:\Users\Margaret Priya D\Source\Repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\Margaret Priya D\Source\Repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\Margaret Priya D\Source\Repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\Margaret Priya D\Source\Repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.xml
+C:\Users\Margaret Priya D\Source\Repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.vbprojAssemblyReference.cache
+C:\Users\Margaret Priya D\Source\Repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Login.resources
+C:\Users\Margaret Priya D\Source\Repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Resources.resources
+C:\Users\Margaret Priya D\Source\Repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Splash.resources
+C:\Users\Margaret Priya D\Source\Repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.vbproj.GenerateResource.cache
+C:\Users\Margaret Priya D\Source\Repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Margaret Priya D\Source\Repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\Margaret Priya D\Source\Repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.xml
+C:\Users\Margaret Priya D\Source\Repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
